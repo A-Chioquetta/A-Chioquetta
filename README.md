@@ -17,7 +17,7 @@ Currently finishing my Ph.D. in Physics, I am shifting my career focus towards p
 
 ## Certificates
 
-- ![Certificates](https://a-chioquetta.github.io/meus-certificados/)
+- [Certificates](https://a-chioquetta.github.io/meus-certificados/)
 
 ## Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
