@@ -14,6 +14,7 @@ Currently finishing my Ph.D. in Physics, while also working as an LLM Trainer. I
 
 - Bachelor’s degree in Physics (UFSC)
 - Master’s degree in Physics (UFMG)
+- PhD in Physics (UFMG)
 
 ## Certificates
 
