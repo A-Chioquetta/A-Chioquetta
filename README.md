@@ -1,6 +1,6 @@
 # Alessandra Chioquetta
 
-Currently finishing my Ph.D. in Physics, while also working as an LLM Trainer. I combine a strong problem-solving background with programming and technology, applying my skills to real-world challenges in AI and software development.
+I have a Ph.D. in Physics, and have been working as an LLM Trainer. I combine a strong problem-solving background with programming and technology, applying my skills to real-world challenges, AI, and software development.
 
 
 ## Soft Skills
