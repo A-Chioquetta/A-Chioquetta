@@ -1,7 +1,6 @@
 # Alessandra Chioquetta
 
-I have a Ph.D. in Physics, and have been working as an LLM Trainer. I combine a strong problem-solving background with programming and technology, applying my skills to real-world challenges, AI, and software development.
-
+I hold a Ph.D. in Physics and have over four years of experience with Python for computational modeling, numerical simulations, and data-driven problem-solving. I also have hands-on experience as an LLM Trainer, working with prompt engineering, model evaluation, RLHF techniques, and code debugging. Additionally, I build AI-assisted web applications and automations using modern development tools, rapid-prototyping workflows, and cloud services such as AWS Lambda. My background combines strong analytical abilities, solid programming skills, and practical experience bridging science, software, and AI.
 
 ## Soft Skills
 
